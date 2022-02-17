@@ -1,0 +1,15 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\homework semaphore casino.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\homework semaphore casino.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\homework semaphore casino.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\homework semaphore casino.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\ref\homework semaphore casino.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\bin\Debug\net6.0\homework semaphore casino.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\ref\homework semaphore casino.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Системне програмування\homework semaphore casino\homework semaphore casino\obj\Debug\net6.0\homework semaphore casino.genruntimeconfig.cache
